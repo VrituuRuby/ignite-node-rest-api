@@ -8,6 +8,7 @@
 # Regras de Negócio (RN)
 
 [X] A transação pode ser do tipo crédito que somará valor total, ou débito que subtrairá;
+<!-- Cookies -->
 [ ] Deve ser possível identificar o usuário entre as requisições;
 [ ] O usuário só pode visualizar transações o qual ele criou;
 
